@@ -8,3 +8,4 @@ Hi! I'm Tamunotonye Kolade Samuel, a detail-oriented QA Engineer.
 - Playwright (Automation)
 - Postman (API Testing)
 - AI-Augmented Test Design
+[View Sample Bug Reports](./Sample_Bug_Reports.md)
